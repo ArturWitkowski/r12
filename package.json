@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-zadanie8.12",
+  "version": "1.0.0",
+  "description": "paper scissors js game",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  },
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArturWitkowski/r12.git"
+  },
+  "keywords": [
+    "js",
+    "game"
+  ],
+  "author": "Artur Witkowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArturWitkowski/r12/issues"
+  },
+  "homepage": "https://github.com/ArturWitkowski/r12#readme"
+}
